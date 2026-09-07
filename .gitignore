@@ -1,0 +1,7 @@
+.backend-inspect/
+node_modules/
+dist/
+.env
+models/
+__pycache__/
+*.pyc
